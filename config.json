@@ -1,0 +1,24 @@
+{
+"Roles": {
+    "Man": [],
+    "Woman": [],
+    "Register": [],
+    "Unregistered": "",
+    "Tagged": ""
+}, "Channels": {
+    "Register": "",
+    "Rules": "",
+    "Chat": "",
+    "TagLog": ""
+}, "Other": {
+    "Tag": [],
+    "NamePrefix": "",
+    "NameSymbol": ""
+}, "Modes": {
+    "Tag": true,
+    "Name": true,
+    "DmMessages": "devre disi usendim yapmaya",
+    "ChatMessages": true
+}
+}
+  
